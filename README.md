@@ -1,4 +1,7 @@
 # Hidden-Snake
+
+# Ce jeu snake a été fait pour le site principal NIRD. (https://github.com/Quoicouteam/Nird)
+
 > Un **jeu Snake** rétro et addictif, secrètement intégré à votre site web ou application. La seule façon d'y accéder est de saisir la séquence de touches `"snake"` sur le clavier de l'utilisateur, et ce, à **tout moment** de l'exécution (sans nécessiter de champ de saisie actif).
 
 Pour lancer le jeu caché :
